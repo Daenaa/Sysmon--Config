@@ -1,2 +1,0 @@
-# Sysmon-Config
- 
